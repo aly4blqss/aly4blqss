@@ -1,5 +1,6 @@
-### Welcome to Alya's Page!🤗
 ![banner](https://github.com/aly4blqss/aly4blqss/assets/121602362/346dc349-8c81-456c-a765-4538a956a684)
+
+<h1 align="center">Welcome to Alya's Page!🤗</h1>
 
 <!--
 **aly4blqss/aly4blqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
