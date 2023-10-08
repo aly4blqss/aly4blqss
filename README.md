@@ -6,9 +6,13 @@
 <br>
 <p align="center">As I embrace the challenge of mastering the art of data engineering, my aim is to continuously expand my knowledge, enhance my skills, and explore the endless possiblities.</p>
 <br>
-<h2>Languages</h2>
+<h3>About Me</h3>
 <br>
-<h2>Data Science</h2>
+<h3>Languages</h3>
+<br>
+<h3>Data Science</h3>
+<br>
+<h3>Statistics</h3>
 <!--
 **aly4blqss/aly4blqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
