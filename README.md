@@ -12,7 +12,7 @@
 <h3>Languages</h3>
 <br>
 <h3>Data Science</h3>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</div>
 <br>
 <h3>Statistics</h3>
 <!--
