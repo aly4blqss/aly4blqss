@@ -4,28 +4,30 @@
 
 <p align="center">Greetings, I'm Alya Balqiss Binti Azahar, a passionate third-year Data Engineering student at Universiti Teknologi Malaysia. My journey into the captivating world of coding has been nothing short of exhilarating, and I'm here to share my endeavors, insights, and projects as I delve deeper into the realms of technology and data engineering.</p>
 <br>
+
 <p align="center">As I embrace the challenge of mastering the art of data engineering, my aim is to continuously expand my knowledge, enhance my skills, and explore the endless possiblities.</p>
 <br>
-<h3>About Me</h3>
-<p></p>
-<br>
-<h3>Languages</h3>
-<br>
-<h3>Data Science</h3>
-<div>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</div>
-<br>
-<h3>Statistics</h3>
-<!--
-**aly4blqss/aly4blqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 Greetings, I am Alya Balqiss, a dedicated third-year student pursuing my studies in Data Engineering at Universiti Teknologi Malaysia.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Science
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<h3>Github Statistics</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aly4blqss&label=Profile%20views&color=0e75b6&style=flat" alt="aly4blqss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aly4blqss&show_icons=true&locale=en" alt="aly4blqss" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aly4blqss&" alt="aly4blqss" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aly4blqss&show_icons=true&locale=en&layout=compact" alt="aly4blqss" /></p>
