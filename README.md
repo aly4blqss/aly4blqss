@@ -7,14 +7,12 @@
 <p align="center">As I embrace the challenge of mastering the art of data engineering, my aim is to continuously expand my knowledge, enhance my skills, and explore the endless possiblities.</p>
 <br>
 <h3>About Me</h3>
+<p></p>
 <br>
 <h3>Languages</h3>
-<div style="background-color: #3498db; color: white; padding: 10px; text-align: center; border-radius: 5px;">
-  <img src="path_to_your_logo.png" alt="HTML Logo" width="50" height="50">
-  <span style="vertical-align: middle; line-height: 50px;">HTML</span>
-</div>
 <br>
 <h3>Data Science</h3>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <h3>Statistics</h3>
 <!--
