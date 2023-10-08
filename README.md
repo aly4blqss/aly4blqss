@@ -9,6 +9,10 @@
 <h3>About Me</h3>
 <br>
 <h3>Languages</h3>
+<div style="background-color: #3498db; color: white; padding: 10px; text-align: center; border-radius: 5px;">
+  <img src="path_to_your_logo.png" alt="HTML Logo" width="50" height="50">
+  <span style="vertical-align: middle; line-height: 50px;">HTML</span>
+</div>
 <br>
 <h3>Data Science</h3>
 <br>
