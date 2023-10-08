@@ -1,4 +1,4 @@
-![banner](https://github.com/aly4blqss/aly4blqss/assets/121602362/346dc349-8c81-456c-a765-4538a956a684)
+![banner](https://github.com/aly4blqss/aly4blqss/assets/121602362/642bf7e9-b9ee-4b54-afc4-05d1aaf94166)
 
 <h1 align="center">Welcome to Alya's Page!🤗</h1>
 
