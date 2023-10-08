@@ -1,11 +1,11 @@
-### Hi there 👋
+### Welcome to Alya's Page!🤗
 
 <!--
 **aly4blqss/aly4blqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Greetings, I am Alya Balqiss, a dedicated third-year student pursuing my studies in Data Engineering at Universiti Teknologi Malaysia.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
