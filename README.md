@@ -1,6 +1,6 @@
 ![banner](https://github.com/aly4blqss/aly4blqss/assets/121602362/642bf7e9-b9ee-4b54-afc4-05d1aaf94166)
 
-<h1 align="center">Welcome to Alya's Page!🤗</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Welcome+To+Alya's+Page!)](https://git.io/typing-svg)
 
 <p align="center">Greetings, I'm Alya Balqiss Binti Azahar, a passionate third-year Data Engineering student at Universiti Teknologi Malaysia. My journey into the captivating world of coding has been nothing short of exhilarating, and I'm here to share my endeavors, insights, and projects as I delve deeper into the realms of technology and data engineering.</p>
 <br>
