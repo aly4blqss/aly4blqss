@@ -41,5 +41,5 @@
 <h3>Github Statistics</h3>
 <div align="left">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aly4blqss&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnajwa12&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly4blqss&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
