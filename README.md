@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/Nurunnajwa12?tab=repositories">
+    <a href="https://github.com/aly4blqss?tab=repositories">
       <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aly4blqss?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
     </a>
