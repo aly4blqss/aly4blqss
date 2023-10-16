@@ -8,6 +8,17 @@
 <p align="center">As I embrace the challenge of mastering the art of data engineering, my aim is to continuously expand my knowledge, enhance my skills, and explore the endless possiblities.</p>
 <br>
 
+<p align="center">
+    <a href="https://github.com/Nurunnajwa12?tab=repositories">
+      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nurunnajwa12?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
+    </a>
+    <a href="https://github.com/Nurunnajwa12?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nurunnajwa12?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Nurunnajwa12&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+</p>
+
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
