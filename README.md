@@ -19,6 +19,10 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=aly4blqss&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
+<p align="center">
+    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=Nurunnajwa12&theme=radical&no-bg=true&column=-1&margin-w=15&margin-h=15">
+</p>
+
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
