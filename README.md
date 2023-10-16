@@ -11,12 +11,12 @@
 <p align="center">
     <a href="https://github.com/Nurunnajwa12?tab=repositories">
       <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nurunnajwa12?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aly4blqss?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
     </a>
-    <a href="https://github.com/Nurunnajwa12?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nurunnajwa12?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/aly4blqss?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aly4blqss?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Nurunnajwa12&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=aly4blqss&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 ### Languages
